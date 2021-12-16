@@ -9,6 +9,8 @@
 /* Begin PBXFileReference section */
 		73DA8362276AD2A9000E2C5F /* CombineExample.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CombineExample.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		73DA8378276AD2C7000E2C5F /* CombineExample.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = CombineExample.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		73DA9081276AF37B0072F53E /* NetworkwithoutCombine.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = NetworkwithoutCombine.playground; path = CombineExample.playground/NetworkwithoutCombine.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		73DA9082276AF5E10072F53E /* NetworkwithCombine.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = NetworkwithCombine.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -25,6 +27,8 @@
 		73DA8359276AD2A9000E2C5F = {
 			isa = PBXGroup;
 			children = (
+				73DA9082276AF5E10072F53E /* NetworkwithCombine.playground */,
+				73DA9081276AF37B0072F53E /* NetworkwithoutCombine.playground */,
 				73DA8378276AD2C7000E2C5F /* CombineExample.playground */,
 				73DA8363276AD2A9000E2C5F /* Products */,
 			);
